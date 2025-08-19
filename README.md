@@ -16,4 +16,4 @@ It showcases my skills, projects, and contact information.
 - [ScrollReveal.js](https://scrollrevealjs.org/) for animations
 - 
 ## 🔗 Live Demo
-👉 [Click here to view the website]()
+👉 [Click here to view the website](https://yousef-habashy.netlify.app)
